@@ -1,5 +1,5 @@
 ## ChatApp C++ Project
-#This is internship project of CBA DEK season 37 developed by DASH team.
+#This is internship project developed by DASH team.
 Member:
 - Tran Duy Khanh
 - Le Moc Tram
